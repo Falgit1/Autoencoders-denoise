@@ -1,5 +1,3 @@
----
-
 ## Step 1: Import Libraries  
 ```python
 import numpy as np  
@@ -199,5 +197,5 @@ plt.show()
 - Loads an external image, preprocesses it, and adds noise.  
 - Uses the trained autoencoder to denoise the image and visualize results.
 
----
+
 
